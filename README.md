@@ -1,8 +1,8 @@
-#prof-camel-thorn
+# prof-camel-thorn
 
 This is a discord bot to provide a leaderboard for Pokemon GO.
 
-##How to use
+## How to use
 
 Create channels with the following names:
 1. xp
@@ -10,7 +10,7 @@ Create channels with the following names:
 1. collector
 1. battle-girl
 
-##Commands
+## Commands
 
 | Command | Description |
 | --- | --- |
