@@ -24,5 +24,5 @@ class Data(object):
         board = board[0:size]
         leader = []
         for i in range(len(board)):
-            leader.append("{0}. {1}: {2}".format(i + 1, board[i][0], board[i][1]))
+            leader.append("{0}. {1}: {2:,}".format(i + 1, board[i][0], board[i][1]))
         return '\n'.join(leader)
